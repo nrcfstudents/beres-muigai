@@ -1,0 +1,32 @@
+body{
+	background: skyblue;
+}
+.profile-info-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  
+  margin: 0 auto;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+.profile-photo{
+	width: 200px;
+	height: 200px;
+	border-radius:50%;
+}
+table{
+  border: solid 2px red;
+}
+table{
+  border:solid 2px blue;
+}
+th,td{
+  border: solid 2px red;
+}
+td{
+  border: solid 2px green;
+}
